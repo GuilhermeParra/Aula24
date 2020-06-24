@@ -33,7 +33,7 @@ namespace Aula24
             
 
         }
-        Console.ResetColor
+        
         
         
     }
